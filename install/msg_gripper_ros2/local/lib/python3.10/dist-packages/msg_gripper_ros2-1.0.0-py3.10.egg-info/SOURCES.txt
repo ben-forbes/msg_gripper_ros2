@@ -1,7 +1,0 @@
-setup.py
-msg_gripper_ros2/__init__.py
-msg_gripper_ros2/msg_gripper_node.py
-msg_gripper_ros2.egg-info/PKG-INFO
-msg_gripper_ros2.egg-info/SOURCES.txt
-msg_gripper_ros2.egg-info/dependency_links.txt
-msg_gripper_ros2.egg-info/top_level.txt
