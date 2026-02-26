@@ -1,0 +1,44 @@
+[0.004s] Invoking command in '/home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2 -- -j32 -l32
+[0.026s] Built target ament_cmake_python_copy_msg_gripper_ros2
+[0.210s] running egg_info
+[0.219s] writing msg_gripper_ros2.egg-info/PKG-INFO
+[0.219s] writing dependency_links to msg_gripper_ros2.egg-info/dependency_links.txt
+[0.219s] writing top-level names to msg_gripper_ros2.egg-info/top_level.txt
+[0.245s] reading manifest file 'msg_gripper_ros2.egg-info/SOURCES.txt'
+[0.245s] writing manifest file 'msg_gripper_ros2.egg-info/SOURCES.txt'
+[0.262s] Built target ament_cmake_python_build_msg_gripper_ros2_egg
+[0.267s] Invoked command in '/home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2 -- -j32 -l32
+[0.271s] Invoking command in '/home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2
+[0.273s] -- Install configuration: ""
+[0.273s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/environment/pythonpath.sh
+[0.273s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/environment/pythonpath.dsv
+[0.273s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2-1.0.0-py3.10.egg-info
+[0.273s] -- Installing: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2-1.0.0-py3.10.egg-info/top_level.txt
+[0.273s] -- Installing: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.273s] -- Installing: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2-1.0.0-py3.10.egg-info/PKG-INFO
+[0.273s] -- Installing: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.273s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2
+[0.274s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2/msg_gripper_node.py
+[0.274s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2/__init__.py
+[0.288s] Listing '/home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/local/lib/python3.10/dist-packages/msg_gripper_ros2'...
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/lib/msg_gripper_ros2/msg_gripper_node
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/launch
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/launch/msg_gripper_launch.py
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/config
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/config/default.yaml
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/ament_index/resource_index/package_run_dependencies/msg_gripper_ros2
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/ament_index/resource_index/parent_prefix_path/msg_gripper_ros2
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/environment/ament_prefix_path.sh
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/environment/ament_prefix_path.dsv
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/environment/path.sh
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/environment/path.dsv
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/local_setup.bash
+[0.290s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/local_setup.sh
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/local_setup.zsh
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/local_setup.dsv
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/package.dsv
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/ament_index/resource_index/packages/msg_gripper_ros2
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/cmake/msg_gripper_ros2Config.cmake
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/cmake/msg_gripper_ros2Config-version.cmake
+[0.291s] -- Up-to-date: /home/benforbes/msg_gripper_ros2/install/msg_gripper_ros2/share/msg_gripper_ros2/package.xml
+[0.291s] Invoked command in '/home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/benforbes/msg_gripper_ros2/build/msg_gripper_ros2

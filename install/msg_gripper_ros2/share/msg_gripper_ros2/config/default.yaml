@@ -1,0 +1,25 @@
+# MSG Gripper — default configuration
+# Copyright (c) 2026 UCLA Biomechatronics Lab — MIT License
+
+msg_gripper_node:
+  ros__parameters:
+
+    # CAN bus
+    bustype: "slcan"
+    channel: "/dev/ttyACM0"
+    bitrate: 1000000
+    node_id: 0
+
+    # Control defaults
+    default_speed: 20       # 0-255
+    default_force: 500      # mA
+
+    # Filtering
+    position_deadband: 5    # encoder counts
+
+    # Behavior
+    auto_calibrate: true
+
+    # Topics
+    command_topic: "/gripper/command_joint_states"
+    feedback_topic: "/gripper/feedback_joint_states"
