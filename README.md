@@ -2,7 +2,7 @@
 
 ROS2 driver for the MSG gripper using the [Spectral BLDC](https://pypi.org/project/Spectral-BLDC/) library and CAN bus.
 
-**Developed by [UCLA Biomechatronics Lab](https://biomechatronics.ucla.edu/) · and [Ben Forbes](https://ben-forbes.githib.io)**
+**Developed by [UCLA Biomechatronics Lab](https://biomechatronics.ucla.edu/) · and [Ben Forbes](https://ben-forbes.github.io/))**
 
 ## Overview
 
