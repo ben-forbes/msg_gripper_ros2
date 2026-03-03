@@ -38,6 +38,8 @@ install(DIRECTORY config/
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
   ament_lint_auto_find_test_dependencies()
+  find_package(ament_cmake_pytest REQUIRED)
+  ament_add_pytest_test(test_unit test/test_unit.py TIMEOUT 60)
 endif()
 
 ament_package()

@@ -51,6 +51,7 @@ class MSGGripperNode(Node):
 
         # -- Parameters: CAN bus --
         self.declare_parameter('bustype', 'slcan')
+        # Linux default; see README for macOS/Windows
         self.declare_parameter('channel', '/dev/ttyACM0')
         self.declare_parameter('bitrate', 1000000)
         self.declare_parameter('node_id', 0)

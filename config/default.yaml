@@ -6,7 +6,9 @@ msg_gripper_node:
 
     # CAN bus
     bustype: "slcan"
-    channel: "/dev/ttyACM0"
+    channel: "/dev/ttyACM0"   # Linux: /dev/ttyACM0 or /dev/ttyUSB0
+                               # macOS: /dev/tty.usbmodem* or /dev/tty.usbserial*
+                               # Windows: COM3 (adjust number)
     bitrate: 1000000
     node_id: 0
 

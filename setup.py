@@ -10,7 +10,7 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
     ],
-    install_requires=['setuptools'],
+    install_requires=['setuptools', 'Spectral_BLDC', 'python-can'],
     zip_safe=True,
     maintainer='UCLA Biomechatronics Lab',
     maintainer_email='benforbes@ucla.edu',
